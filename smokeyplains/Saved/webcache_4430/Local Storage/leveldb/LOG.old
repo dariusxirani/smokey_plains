@@ -1,6 +1,21 @@
-2026/02/16-23:34:07.782 12b0 Reusing MANIFEST C:/Users/Darius Irani/Desktop/smokeyplains2-16/smokeyplains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/16-23:34:07.792 12b0 Recovering log #3
-2026/02/16-23:34:07.793 12b0 Reusing old log C:/Users/Darius Irani/Desktop/smokeyplains2-16/smokeyplains/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/02/16-23:54:36.595 4088 Level-0 table #5: started
-2026/02/16-23:54:36.602 4088 Level-0 table #5: 64415 bytes OK
-2026/02/16-23:54:36.609 4088 Delete type=0 #3
+2026/02/24-01:42:56.305 4164 Reusing MANIFEST C:/Users/Darius Irani/Documents/GitHub/smokey_plains/smokeyplains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/24-01:42:56.315 4164 Recovering log #54
+2026/02/24-01:42:56.315 4164 Reusing old log C:/Users/Darius Irani/Documents/GitHub/smokey_plains/smokeyplains/Saved/webcache_4430\Local Storage\leveldb/000054.log 
+2026/02/24-01:43:58.300 4164 Level-0 table #58: started
+2026/02/24-01:43:58.305 4164 Level-0 table #58: 77402 bytes OK
+2026/02/24-01:43:58.308 4164 Delete type=0 #54
+2026/02/24-01:45:58.304 6a50 Level-0 table #60: started
+2026/02/24-01:45:58.311 6a50 Level-0 table #60: 77011 bytes OK
+2026/02/24-01:45:58.315 6a50 Delete type=0 #57
+2026/02/24-01:47:58.310 5fdc Level-0 table #62: started
+2026/02/24-01:47:58.317 5fdc Level-0 table #62: 77171 bytes OK
+2026/02/24-01:47:58.321 5fdc Delete type=0 #59
+2026/02/24-01:47:58.322 5fdc Compacting 4@0 + 1@1 files
+2026/02/24-01:47:58.327 5fdc Generated table #63@0: 4 keys, 38751 bytes
+2026/02/24-01:47:58.327 5fdc Compacted 4@0 + 1@1 files => 38751 bytes
+2026/02/24-01:47:58.330 5fdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/24-01:47:58.331 5fdc Delete type=2 #53
+2026/02/24-01:47:58.331 5fdc Delete type=2 #55
+2026/02/24-01:47:58.331 5fdc Delete type=2 #58
+2026/02/24-01:47:58.331 5fdc Delete type=2 #60
+2026/02/24-01:47:58.331 5fdc Delete type=2 #62
