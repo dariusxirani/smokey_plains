@@ -1,27 +1,15 @@
-2026/03/30-00:35:11.659 c88 Reusing MANIFEST C:/Users/Darius Irani/Desktop/smokeyplains3-29/smokey_plains-main (3)/smokey_plains-main/smokey_plains-main/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/30-00:35:11.660 c88 Recovering log #79
-2026/03/30-00:35:11.661 c88 Reusing old log C:/Users/Darius Irani/Desktop/smokeyplains3-29/smokey_plains-main (3)/smokey_plains-main/smokey_plains-main/Saved/webcache_4430\Local Storage\leveldb/000079.log 
-2026/03/30-00:36:14.236 c88 Level-0 table #83: started
-2026/03/30-00:36:14.242 c88 Level-0 table #83: 75834 bytes OK
-2026/03/30-00:36:14.250 c88 Delete type=0 #79
-2026/03/30-00:37:53.645 4af0 Level-0 table #85: started
-2026/03/30-00:37:53.652 4af0 Level-0 table #85: 76187 bytes OK
-2026/03/30-00:37:53.656 4af0 Delete type=0 #82
-2026/03/30-00:37:53.657 4af0 Compacting 4@0 + 1@1 files
-2026/03/30-00:37:53.661 4af0 Generated table #86@0: 4 keys, 38267 bytes
-2026/03/30-00:37:53.661 4af0 Compacted 4@0 + 1@1 files => 38267 bytes
-2026/03/30-00:37:53.664 4af0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/30-00:37:53.665 4af0 Delete type=2 #74
-2026/03/30-00:37:53.665 4af0 Delete type=2 #76
-2026/03/30-00:37:53.665 4af0 Delete type=2 #80
-2026/03/30-00:37:53.665 4af0 Delete type=2 #83
-2026/03/30-00:37:53.665 4af0 Delete type=2 #85
-2026/03/30-00:44:55.355 310c Level-0 table #88: started
-2026/03/30-00:44:55.361 310c Level-0 table #88: 76274 bytes OK
-2026/03/30-00:44:55.365 310c Delete type=0 #84
-2026/03/30-00:45:07.158 4af0 Level-0 table #90: started
-2026/03/30-00:45:07.164 4af0 Level-0 table #90: 76199 bytes OK
-2026/03/30-00:45:07.168 4af0 Delete type=0 #87
-2026/03/30-00:45:48.578 310c Level-0 table #92: started
-2026/03/30-00:45:48.584 310c Level-0 table #92: 76635 bytes OK
-2026/03/30-00:45:48.588 310c Delete type=0 #89
+2026/03/31-00:53:57.001 4708 Reusing MANIFEST C:/Users/Darius Irani/Desktop/smokeyplains3-29/smokey_plains-main (3)/smokey_plains-main/smokey_plains-main/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/31-00:53:57.009 4708 Recovering log #91
+2026/03/31-00:53:57.010 4708 Reusing old log C:/Users/Darius Irani/Desktop/smokeyplains3-29/smokey_plains-main (3)/smokey_plains-main/smokey_plains-main/Saved/webcache_4430\Local Storage\leveldb/000091.log 
+2026/03/31-00:55:00.632 4708 Level-0 table #95: started
+2026/03/31-00:55:00.639 4708 Level-0 table #95: 76470 bytes OK
+2026/03/31-00:55:00.642 4708 Delete type=0 #91
+2026/03/31-00:55:00.643 4708 Compacting 4@0 + 1@1 files
+2026/03/31-00:55:00.647 4708 Generated table #96@0: 4 keys, 38351 bytes
+2026/03/31-00:55:00.648 4708 Compacted 4@0 + 1@1 files => 38351 bytes
+2026/03/31-00:55:00.651 4708 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/31-00:55:00.651 4708 Delete type=2 #86
+2026/03/31-00:55:00.651 4708 Delete type=2 #88
+2026/03/31-00:55:00.651 4708 Delete type=2 #90
+2026/03/31-00:55:00.651 4708 Delete type=2 #92
+2026/03/31-00:55:00.651 4708 Delete type=2 #95
