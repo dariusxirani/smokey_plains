@@ -1,10 +1,5 @@
-2026/04/01-15:32:41.183 4754 Reusing MANIFEST C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/01-15:32:41.192 4754 Recovering log #94
-2026/04/01-15:32:41.193 4754 Level-0 table #98: started
-2026/04/01-15:32:41.201 4754 Level-0 table #98: 76707 bytes OK
-2026/04/01-15:32:41.206 4754 Delete type=2 #86
-2026/04/01-15:32:41.206 4754 Delete type=2 #88
-2026/04/01-15:32:41.206 4754 Delete type=2 #90
-2026/04/01-15:32:41.206 4754 Delete type=0 #91
-2026/04/01-15:32:41.206 4754 Delete type=2 #92
-2026/04/01-15:32:41.206 4754 Delete type=0 #94
+2026/04/14-01:30:04.981 b34 Reusing MANIFEST C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/14-01:30:04.982 b34 Recovering log #108
+2026/04/14-01:30:04.982 b34 Level-0 table #111: started
+2026/04/14-01:30:04.988 b34 Level-0 table #111: 76527 bytes OK
+2026/04/14-01:30:04.992 b34 Delete type=0 #108
