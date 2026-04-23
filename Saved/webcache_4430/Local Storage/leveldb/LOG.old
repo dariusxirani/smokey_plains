@@ -1,24 +1,5 @@
-2026/04/13-23:20:28.496 25d4 Reusing MANIFEST C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/13-23:20:28.503 25d4 Recovering log #99
-2026/04/13-23:20:28.504 25d4 Reusing old log C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/000099.log 
-2026/04/13-23:21:31.435 25d4 Level-0 table #102: started
-2026/04/13-23:21:31.442 25d4 Level-0 table #102: 76444 bytes OK
-2026/04/13-23:21:31.447 25d4 Delete type=0 #99
-2026/04/14-01:05:06.108 3620 Level-0 table #104: started
-2026/04/14-01:05:06.114 3620 Level-0 table #104: 76543 bytes OK
-2026/04/14-01:05:06.118 3620 Delete type=0 #101
-2026/04/14-01:05:19.074 25d4 Level-0 table #106: started
-2026/04/14-01:05:19.082 25d4 Level-0 table #106: 76454 bytes OK
-2026/04/14-01:05:19.085 25d4 Delete type=0 #103
-2026/04/14-01:05:19.086 25d4 Compacting 4@0 + 1@1 files
-2026/04/14-01:05:19.091 25d4 Generated table #107@0: 4 keys, 38399 bytes
-2026/04/14-01:05:19.091 25d4 Compacted 4@0 + 1@1 files => 38399 bytes
-2026/04/14-01:05:19.094 25d4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/04/14-01:05:19.095 25d4 Delete type=2 #96
-2026/04/14-01:05:19.095 25d4 Delete type=2 #98
-2026/04/14-01:05:19.095 25d4 Delete type=2 #102
-2026/04/14-01:05:19.095 25d4 Delete type=2 #104
-2026/04/14-01:05:19.095 25d4 Delete type=2 #106
-2026/04/14-01:05:33.863 3620 Level-0 table #109: started
-2026/04/14-01:05:33.868 3620 Level-0 table #109: 76399 bytes OK
-2026/04/14-01:05:33.872 3620 Delete type=0 #105
+2026/04/22-20:30:30.711 60f4 Creating DB C:/Users/Bri/Documents/Github/smokey_plains/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/22-20:30:30.717 60f4 Reusing MANIFEST C:/Users/Bri/Documents/Github/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-21:38:37.045 6cf4 Level-0 table #5: started
+2026/04/22-21:38:37.048 6cf4 Level-0 table #5: 67622 bytes OK
+2026/04/22-21:38:37.049 6cf4 Delete type=0 #3
