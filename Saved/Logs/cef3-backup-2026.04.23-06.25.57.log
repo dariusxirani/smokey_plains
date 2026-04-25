@@ -1,0 +1,33 @@
+[0422/232250.844:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0422/232300.471:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0422/232300.565:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0422/232300.881:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0422/232300.934:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(119,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0422/232300.943:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(116,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0422/232300.960:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(120,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0422/232300.965:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+[0422/232300.968:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(128,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0422/232300.973:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(160,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0422/232449.842:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0422/232557.809:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)

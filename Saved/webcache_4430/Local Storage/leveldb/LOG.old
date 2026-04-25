@@ -1,5 +1,6 @@
-2026/04/22-20:30:30.711 60f4 Creating DB C:/Users/Bri/Documents/Github/smokey_plains/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/22-20:30:30.717 60f4 Reusing MANIFEST C:/Users/Bri/Documents/Github/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/22-21:38:37.045 6cf4 Level-0 table #5: started
-2026/04/22-21:38:37.048 6cf4 Level-0 table #5: 67622 bytes OK
-2026/04/22-21:38:37.049 6cf4 Delete type=0 #3
+2026/04/22-23:22:49.712 6eb0 Reusing MANIFEST C:/Users/Bri/Documents/Github/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-23:22:49.712 6eb0 Recovering log #4
+2026/04/22-23:22:49.713 6eb0 Reusing old log C:/Users/Bri/Documents/Github/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2026/04/22-23:23:51.287 6eb0 Level-0 table #8: started
+2026/04/22-23:23:51.290 6eb0 Level-0 table #8: 63566 bytes OK
+2026/04/22-23:23:51.291 6eb0 Delete type=0 #4
