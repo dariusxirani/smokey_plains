@@ -1,15 +1,12 @@
-[0422/232654.409:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0422/232853.422:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0423/000708.187:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0502/165707.338:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0502/173927.118:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
 
-[0423/000708.267:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0502/173927.542:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
-[0423/000708.472:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0502/173927.893:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0423/000708.605:ERROR:gl_utils.cc(314)] [.WebGL-000004626732CD00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0423/000708.681:ERROR:gl_utils.cc(314)] [.WebGL-000004626732CD00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
