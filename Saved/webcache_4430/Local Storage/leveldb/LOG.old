@@ -1,27 +1,9 @@
-2026/05/02-15:35:15.451 5450 Reusing MANIFEST C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/05/02-15:35:15.452 5450 Recovering log #114
-2026/05/02-15:35:15.452 5450 Reusing old log C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/000114.log 
-2026/05/02-16:08:54.275 cdbc Level-0 table #118: started
-2026/05/02-16:08:54.282 cdbc Level-0 table #118: 76326 bytes OK
-2026/05/02-16:08:54.285 cdbc Delete type=0 #114
-2026/05/02-16:09:08.282 5450 Level-0 table #120: started
-2026/05/02-16:09:08.288 5450 Level-0 table #120: 75910 bytes OK
-2026/05/02-16:09:08.291 5450 Delete type=0 #117
-2026/05/02-16:09:20.369 cdbc Level-0 table #122: started
-2026/05/02-16:09:20.375 cdbc Level-0 table #122: 75967 bytes OK
-2026/05/02-16:09:20.378 cdbc Delete type=0 #119
-2026/05/02-16:09:20.382 cdbc Compacting 4@0 + 1@1 files
-2026/05/02-16:09:20.387 cdbc Generated table #123@0: 4 keys, 38364 bytes
-2026/05/02-16:09:20.387 cdbc Compacted 4@0 + 1@1 files => 38364 bytes
-2026/05/02-16:09:20.390 cdbc compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/02-16:09:20.391 cdbc Delete type=2 #113
-2026/05/02-16:09:20.391 cdbc Delete type=2 #115
-2026/05/02-16:09:20.391 cdbc Delete type=2 #118
-2026/05/02-16:09:20.391 cdbc Delete type=2 #120
-2026/05/02-16:09:20.391 cdbc Delete type=2 #122
-2026/05/02-16:09:40.847 5450 Level-0 table #125: started
-2026/05/02-16:09:40.853 5450 Level-0 table #125: 77111 bytes OK
-2026/05/02-16:09:40.857 5450 Delete type=0 #121
-2026/05/02-16:54:41.156 6a94 Level-0 table #127: started
-2026/05/02-16:54:41.163 6a94 Level-0 table #127: 77195 bytes OK
-2026/05/02-16:54:41.167 6a94 Delete type=0 #124
+2026/05/02-18:04:17.631 2f80 Reusing MANIFEST C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/02-18:04:17.631 2f80 Recovering log #152
+2026/05/02-18:04:17.632 2f80 Reusing old log C:/Users/Darius Irani/Documents/GitHub/smokey_plains/Saved/webcache_4430\Local Storage\leveldb/000152.log 
+2026/05/02-18:05:21.036 78d0 Level-0 table #156: started
+2026/05/02-18:05:21.041 78d0 Level-0 table #156: 76738 bytes OK
+2026/05/02-18:05:21.044 78d0 Delete type=0 #152
+2026/05/02-18:07:21.028 3e3c Level-0 table #158: started
+2026/05/02-18:07:21.034 3e3c Level-0 table #158: 76486 bytes OK
+2026/05/02-18:07:21.038 3e3c Delete type=0 #155

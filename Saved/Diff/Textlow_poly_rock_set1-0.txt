@@ -1,0 +1,44 @@
+Begin Object Class=/Script/Engine.StaticMesh Name="low_poly_rock_set1"
+   Begin Object Class=/Script/NavigationSystem.NavCollision Name="NavCollision_0"
+   End Object
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0"
+   End Object
+   Begin Object Class=/Script/InterchangeEngine.InterchangeAssetImportData Name="InterchangeAssetImportData_0"
+   End Object
+   Begin Object Class=/Script/Engine.StaticMeshDescriptionBulkData Name="StaticMeshDescriptionBulkData_0"
+      Begin Object Class=/Script/StaticMeshDescription.StaticMeshDescription Name="MeshDescription" Archetype="/Script/StaticMeshDescription.StaticMeshDescription'/Script/Engine.Default__StaticMeshDescriptionBulkData:MeshDescription'"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.StaticMeshDescriptionBulkData Name="HiResMeshDescription" Archetype="/Script/Engine.StaticMeshDescriptionBulkData'/Script/Engine.Default__StaticMesh:HiResMeshDescription'"
+      Begin Object Class=/Script/StaticMeshDescription.StaticMeshDescription Name="MeshDescription" Archetype="/Script/StaticMeshDescription.StaticMeshDescription'/Script/Engine.Default__StaticMesh:HiResMeshDescription.MeshDescription'"
+      End Object
+   End Object
+   Begin Object Name="NavCollision_0"
+   End Object
+   Begin Object Name="BodySetup_0"
+      AggGeom=(ConvexElems=((VertexData=((X=264.852258,Y=-87.184332,Z=45.815690),(X=264.852258,Y=-326.202753,Z=45.815690),(X=264.852258,Y=-326.202753,Z=-31.807741),(X=264.852258,Y=-87.184332,Z=-31.807741),(X=-552.128320,Y=-149.062537,Z=-53.755708),(X=-552.128320,Y=-235.837289,Z=-53.755708),(X=-552.128320,Y=-235.837289,Z=49.853563),(X=-552.128320,Y=-149.062537,Z=49.853563),(X=-295.558893,Y=107.506891,Z=41.508527),(X=70.161035,Y=107.506891,Z=41.508527),(X=70.161035,Y=107.506891,Z=8.491626),(X=-295.558893,Y=107.506891,Z=8.491626),(X=-310.591684,Y=-477.373926,Z=-99.537042),(X=113.681085,Y=-477.373926,Z=-99.537042),(X=113.681085,Y=-477.373926,Z=111.919916),(X=-310.591684,Y=-477.373926,Z=111.919916),(X=-393.059968,Y=-380.371927,Z=208.921915),(X=101.746034,Y=-380.371927,Z=208.921915),(X=101.746034,Y=-59.906497,Z=208.921915),(X=-393.059968,Y=-59.906497,Z=208.921915),(X=-421.071351,Y=-366.894258,Z=-184.812677),(X=-421.071351,Y=-85.797412,Z=-184.812677),(X=111.847322,Y=-85.797412,Z=-184.812677),(X=111.847322,Y=-392.098291,Z=-184.812677),(X=-395.867319,Y=-392.098291,Z=-184.812677),(X=-428.016124,Y=-24.950341,Z=173.965759),(X=169.660228,Y=8.007698,Z=141.007720),(X=155.402021,Y=-435.652990,Z=-141.257978),(X=187.656330,Y=-9.988404,Z=-109.003669),(X=-454.967274,Y=-51.901490,Z=-150.916755),(X=-400.326826,Y=-387.638784,Z=201.655057),(X=156.214559,Y=-434.840452,Z=154.453390)),IndexData=(21,11,22,28,3,22,8,19,9,30,15,14,30,20,15,14,15,13,1,2,0,20,22,24,1,13,2,14,13,1,20,6,5,12,15,24,23,22,2,27,23,2,23,24,22,23,13,24,27,13,23,27,2,13,5,6,4,17,31,1,12,13,15,12,24,13,18,19,17,9,26,10,19,25,7,6,7,4,9,10,11,17,1,0,14,31,17,14,1,31,6,16,7,30,6,20,29,4,7,21,22,20,30,14,17,20,24,15,30,16,6,30,17,16,19,16,17,19,7,16,29,11,21,29,21,20,8,25,19,18,17,0,10,22,11,3,10,26,3,26,0,26,18,0,9,18,26,9,19,18,29,20,5,29,5,4,3,2,22,3,0,2,28,10,3,28,22,10,8,29,25,29,7,25,8,11,29,8,9,11),ElemBox=(Min=(X=-552.128320,Y=-477.373926,Z=-184.812677),Max=(X=264.852258,Y=107.506891,Z=208.921915),IsValid=True))))
+      DefaultInstance=(ObjectType=ECC_WorldStatic,CollisionProfileName="BlockAll")
+   End Object
+   Begin Object Name="InterchangeAssetImportData_0"
+      NodeUniqueID="Factory_\\Mesh\\low_poly_rock_set_mesh_0"
+   End Object
+   Begin Object Name="StaticMeshDescriptionBulkData_0"
+      Begin Object Name="MeshDescription"
+      End Object
+   End Object
+   Begin Object Name="HiResMeshDescription"
+      Begin Object Name="MeshDescription"
+      End Object
+   End Object
+   SourceModels(0)=(StaticMeshDescriptionBulkData="/Script/Engine.StaticMeshDescriptionBulkData'StaticMeshDescriptionBulkData_0'",BuildSettings=(bRecomputeNormals=False,bRemoveDegenerates=False,bBuildReversedIndexBuffer=False),CacheMeshDescriptionTrianglesCount=328,CacheMeshDescriptionVerticesCount=330)
+   SectionInfoMap=(Map=((0, ())))
+   OriginalSectionInfoMap=(Map=((0, ())))
+   LightmapUVVersion=10
+   StaticMaterials(0)=(MaterialInterface="/Script/Engine.MaterialInstanceConstant'/Game/Fab/Low_Poly_Rock_Set/low_poly_rock_set/Materials/rock_002.rock_002'",MaterialSlotName="rock_002",ImportedMaterialSlotName="rock_002",UVChannelData=(bInitialized=True,LocalUVDensities[0]=577.661316,LocalUVDensities[1]=1168.277710))
+   LightmapUVDensity=1168.277710
+   LightMapCoordinateIndex=1
+   AssetImportData="/Script/InterchangeEngine.InterchangeAssetImportData'InterchangeAssetImportData_0'"
+   EditorCameraPosition=(bIsSet=True,CamOrbitPoint=(X=447.017671,Y=617.515018,Z=191.801469),CamOrbitZoom=(X=125.433632,Y=88.156225,Z=48.192599),CamOrbitRotation=(Pitch=-17.450000,Yaw=-144.900000,Roll=-0.000001))
+   bCustomizedCollision=True
+   ExtendedBounds=(Origin=(X=-143.638031,Y=-184.933517,Z=12.054619),BoxExtent=(X=408.390289,Y=292.340408,Z=196.767296),SphereRadius=420.683403)
+End Object
